@@ -1,0 +1,13 @@
+{
+  "name": "ipl-trump-2026",
+  "version": "0.1.0",
+  "description": "Two-player IPL auction and Trump-card tournament, server-authoritative.",
+  "private": true,
+  "main": "lib/server.js",
+  "scripts": {
+    "start": "node lib/server.js",
+    "test": "node --test --test-timeout=20000 test/engine.test.js test/server.test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
