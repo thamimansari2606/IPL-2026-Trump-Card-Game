@@ -165,7 +165,7 @@
   {
     "id": "IPL-m-s-dhoni",
     "name": "M S Dhoni",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "CSK"
@@ -191,7 +191,7 @@
   {
     "id": "IPL-k-l-rahul",
     "name": "K L Rahul",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "RCB",
@@ -586,7 +586,7 @@
   {
     "id": "IPL-jos-buttler",
     "name": "Jos Buttler",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "MI",
@@ -838,7 +838,7 @@
   {
     "id": "IPL-rishabh-pant",
     "name": "Rishabh Pant",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "DC",
@@ -865,7 +865,7 @@
   {
     "id": "IPL-quinton-de-kock",
     "name": "Quinton de Kock",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "SRH",
@@ -954,7 +954,7 @@
   {
     "id": "IPL-ishan-kishan",
     "name": "Ishan Kishan",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "GT",
@@ -1067,7 +1067,7 @@
   {
     "id": "IPL-nicholas-pooran",
     "name": "Nicholas Pooran",
-    "role": "Batter",
+    "role": "Wicketkeeper",
     "nationality": "Unknown (not in dataset)",
     "iplTeams": [
       "PBKS",
