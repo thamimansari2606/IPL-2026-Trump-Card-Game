@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "IPL-virat-kohli",
+    "name": "Virat Kohli",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB"
+    ],
+    "basePrice": 2000,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 8661,
+      "battingAverage": 39.01,
+      "strikeRate": 132.86,
+      "highestScore": 113,
+      "centuries": 8,
+      "halfCenturies": 63,
+      "wickets": 4,
+      "bowlingAverage": 92.0,
+      "oversBowled": 41.8,
+      "economyRate": 8.8,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-rohit-sharma",
+    "name": "Rohit Sharma",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "MI"
+    ],
+    "basePrice": 1835,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 7046,
+      "battingAverage": 29.24,
+      "strikeRate": 132.1,
+      "highestScore": 109,
+      "centuries": 2,
+      "halfCenturies": 47,
+      "wickets": 15,
+      "bowlingAverage": 30.2,
+      "oversBowled": 56.5,
+      "economyRate": 8.02,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-shikhar-dhawan",
+    "name": "Shikhar Dhawan",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "MI",
+      "SRH",
+      "PBKS"
+    ],
+    "basePrice": 1710,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 6769,
+      "battingAverage": 34.02,
+      "strikeRate": 127.14,
+      "highestScore": 106,
+      "centuries": 2,
+      "halfCenturies": 51,
+      "wickets": 4,
+      "bowlingAverage": 16.5,
+      "oversBowled": 8.0,
+      "economyRate": 8.25,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-ravindra-jadeja",
+    "name": "Ravindra Jadeja",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RR",
+      "CSK",
+      "GT"
+    ],
+    "basePrice": 1665,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3260,
+      "battingAverage": 26.08,
+      "strikeRate": 130.3,
+      "highestScore": 77,
+      "centuries": 0,
+      "halfCenturies": 5,
+      "wickets": 170,
+      "bowlingAverage": 30.52,
+      "oversBowled": 676.0,
+      "economyRate": 7.67,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-david-warner",
+    "name": "David Warner",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "SRH"
+    ],
+    "basePrice": 1640,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 6565,
+      "battingAverage": 39.79,
+      "strikeRate": 139.77,
+      "highestScore": 126,
+      "centuries": 4,
+      "halfCenturies": 62,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.2,
+      "economyRate": 12.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-sunil-narine",
+    "name": "Sunil Narine",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR"
+    ],
+    "basePrice": 1405,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 1780,
+      "battingAverage": 17.8,
+      "strikeRate": 166.51,
+      "highestScore": 109,
+      "centuries": 1,
+      "halfCenturies": 7,
+      "wickets": 192,
+      "bowlingAverage": 25.64,
+      "oversBowled": 724.2,
+      "economyRate": 6.8,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-m-s-dhoni",
+    "name": "M S Dhoni",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK"
+    ],
+    "basePrice": 1360,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 5439,
+      "battingAverage": 34.64,
+      "strikeRate": 137.45,
+      "highestScore": 84,
+      "centuries": 0,
+      "halfCenturies": 24,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-k-l-rahul",
+    "name": "K L Rahul",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "SRH",
+      "PBKS",
+      "LSG",
+      "DC"
+    ],
+    "basePrice": 1305,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 5222,
+      "battingAverage": 45.02,
+      "strikeRate": 136.03,
+      "highestScore": 132,
+      "centuries": 5,
+      "halfCenturies": 40,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-andre-russell",
+    "name": "Andre Russell",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "KKR"
+    ],
+    "basePrice": 1280,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2651,
+      "battingAverage": 27.33,
+      "strikeRate": 174.18,
+      "highestScore": 88,
+      "centuries": 0,
+      "halfCenturies": 12,
+      "wickets": 123,
+      "bowlingAverage": 23.28,
+      "oversBowled": 301.0,
+      "economyRate": 9.51,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-ajinkya-rahane",
+    "name": "Ajinkya Rahane",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "RR",
+      "DC",
+      "KKR",
+      "CSK"
+    ],
+    "basePrice": 1265,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 5032,
+      "battingAverage": 29.95,
+      "strikeRate": 125.02,
+      "highestScore": 105,
+      "centuries": 2,
+      "halfCenturies": 33,
+      "wickets": 1,
+      "bowlingAverage": 5.0,
+      "oversBowled": 1.0,
+      "economyRate": 5.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-dinesh-karthik",
+    "name": "Dinesh Karthik",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "PBKS",
+      "MI",
+      "RCB",
+      "GT",
+      "KKR"
+    ],
+    "basePrice": 1210,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4842,
+      "battingAverage": 25.22,
+      "strikeRate": 135.36,
+      "highestScore": 97,
+      "centuries": 0,
+      "halfCenturies": 22,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-faf-du-plessis",
+    "name": "Faf du Plessis",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK",
+      "RCB",
+      "DC"
+    ],
+    "basePrice": 1195,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4773,
+      "battingAverage": 34.84,
+      "strikeRate": 135.79,
+      "highestScore": 96,
+      "centuries": 0,
+      "halfCenturies": 39,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 1.0,
+      "economyRate": 16.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-sanju-samson",
+    "name": "Sanju Samson",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RR",
+      "DC"
+    ],
+    "basePrice": 1175,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4704,
+      "battingAverage": 31.15,
+      "strikeRate": 139.05,
+      "highestScore": 119,
+      "centuries": 3,
+      "halfCenturies": 26,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-ravi-ashwin",
+    "name": "Ravi Ashwin",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK",
+      "PBKS",
+      "DC",
+      "RR"
+    ],
+    "basePrice": 1145,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 833,
+      "battingAverage": 12.82,
+      "strikeRate": 118.16,
+      "highestScore": 50,
+      "centuries": 0,
+      "halfCenturies": 1,
+      "wickets": 187,
+      "bowlingAverage": 30.22,
+      "oversBowled": 785.0,
+      "economyRate": 7.2,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-axar-patel",
+    "name": "Axar Patel",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "DC"
+    ],
+    "basePrice": 1120,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 1916,
+      "battingAverage": 21.77,
+      "strikeRate": 133.99,
+      "highestScore": 66,
+      "centuries": 0,
+      "halfCenturies": 3,
+      "wickets": 128,
+      "bowlingAverage": 31.8,
+      "oversBowled": 552.5,
+      "economyRate": 7.37,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-piyush-chawla",
+    "name": "Piyush Chawla",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "KKR",
+      "CSK",
+      "MI"
+    ],
+    "basePrice": 1115,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 624,
+      "battingAverage": 10.4,
+      "strikeRate": 110.83,
+      "highestScore": 24,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 192,
+      "bowlingAverage": 26.6,
+      "oversBowled": 641.7,
+      "economyRate": 7.96,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-yuzvendra-chahal",
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "RCB",
+      "RR",
+      "PBKS"
+    ],
+    "basePrice": 1115,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 37,
+      "battingAverage": 4.62,
+      "strikeRate": 43.02,
+      "highestScore": 8,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 221,
+      "bowlingAverage": 22.77,
+      "oversBowled": 631.8,
+      "economyRate": 7.96,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-a-t-rayudu",
+    "name": "A T Rayudu",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "CSK"
+    ],
+    "basePrice": 1085,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4348,
+      "battingAverage": 28.42,
+      "strikeRate": 127.54,
+      "highestScore": 100,
+      "centuries": 1,
+      "halfCenturies": 22,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-sa-yadav",
+    "name": "SA Yadav",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "KKR"
+    ],
+    "basePrice": 1080,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4311,
+      "battingAverage": 34.21,
+      "strikeRate": 148.66,
+      "highestScore": 103,
+      "centuries": 2,
+      "halfCenturies": 29,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 1.0,
+      "economyRate": 8.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-hardik-pandya",
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "GT"
+    ],
+    "basePrice": 1075,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2749,
+      "battingAverage": 26.95,
+      "strikeRate": 146.93,
+      "highestScore": 91,
+      "centuries": 0,
+      "halfCenturies": 10,
+      "wickets": 78,
+      "bowlingAverage": 31.95,
+      "oversBowled": 271.3,
+      "economyRate": 9.18,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-bhuvneshwar-kumar",
+    "name": "Bhuvneshwar Kumar",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "RCB"
+    ],
+    "basePrice": 1070,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 320,
+      "battingAverage": 7.62,
+      "strikeRate": 91.17,
+      "highestScore": 27,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 198,
+      "bowlingAverage": 27.33,
+      "oversBowled": 703.7,
+      "economyRate": 7.69,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-jos-buttler",
+    "name": "Jos Buttler",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "RR",
+      "GT"
+    ],
+    "basePrice": 1030,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4120,
+      "battingAverage": 38.87,
+      "strikeRate": 149.38,
+      "highestScore": 124,
+      "centuries": 7,
+      "halfCenturies": 24,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-manish-pandey",
+    "name": "Manish Pandey",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "RCB",
+      "KKR",
+      "SRH",
+      "LSG",
+      "DC"
+    ],
+    "basePrice": 985,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3942,
+      "battingAverage": 29.64,
+      "strikeRate": 121.52,
+      "highestScore": 114,
+      "centuries": 1,
+      "halfCenturies": 22,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-shubman-gill",
+    "name": "Shubman Gill",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR",
+      "GT"
+    ],
+    "basePrice": 965,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3866,
+      "battingAverage": 39.45,
+      "strikeRate": 138.72,
+      "highestScore": 129,
+      "centuries": 4,
+      "halfCenturies": 26,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-amit-mishra",
+    "name": "Amit Mishra",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "SRH",
+      "LSG"
+    ],
+    "basePrice": 965,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 381,
+      "battingAverage": 12.7,
+      "strikeRate": 90.93,
+      "highestScore": 31,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 174,
+      "bowlingAverage": 23.82,
+      "oversBowled": 561.8,
+      "economyRate": 7.38,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-rashid-khan",
+    "name": "Rashid Khan",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "GT"
+    ],
+    "basePrice": 935,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 585,
+      "battingAverage": 13.6,
+      "strikeRate": 160.27,
+      "highestScore": 79,
+      "centuries": 0,
+      "halfCenturies": 1,
+      "wickets": 158,
+      "bowlingAverage": 23.84,
+      "oversBowled": 531.5,
+      "economyRate": 7.09,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-shreyas-iyer",
+    "name": "Shreyas Iyer",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "KKR",
+      "PBKS"
+    ],
+    "basePrice": 935,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3731,
+      "battingAverage": 32.73,
+      "strikeRate": 133.35,
+      "highestScore": 97,
+      "centuries": 0,
+      "halfCenturies": 27,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 1.0,
+      "economyRate": 7.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-jasprit-bumrah",
+    "name": "Jasprit Bumrah",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI"
+    ],
+    "basePrice": 930,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 68,
+      "battingAverage": 8.5,
+      "strikeRate": 86.08,
+      "highestScore": 16,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 183,
+      "bowlingAverage": 22.03,
+      "oversBowled": 556.2,
+      "economyRate": 7.25,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-glenn-maxwell",
+    "name": "Glenn Maxwell",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "MI",
+      "PBKS",
+      "RCB"
+    ],
+    "basePrice": 910,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2819,
+      "battingAverage": 23.89,
+      "strikeRate": 155.15,
+      "highestScore": 95,
+      "centuries": 0,
+      "halfCenturies": 18,
+      "wickets": 41,
+      "bowlingAverage": 34.46,
+      "oversBowled": 170.3,
+      "economyRate": 8.3,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-k-h-pandya",
+    "name": "K H Pandya",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "LSG",
+      "RCB"
+    ],
+    "basePrice": 905,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 1756,
+      "battingAverage": 21.41,
+      "strikeRate": 132.43,
+      "highestScore": 86,
+      "centuries": 0,
+      "halfCenturies": 2,
+      "wickets": 93,
+      "bowlingAverage": 32.1,
+      "oversBowled": 399.7,
+      "economyRate": 7.47,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-rishabh-pant",
+    "name": "Rishabh Pant",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "LSG"
+    ],
+    "basePrice": 890,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3553,
+      "battingAverage": 33.84,
+      "strikeRate": 147.61,
+      "highestScore": 128,
+      "centuries": 2,
+      "halfCenturies": 19,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-quinton-de-kock",
+    "name": "Quinton de Kock",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "DC",
+      "RCB",
+      "MI",
+      "LSG",
+      "KKR"
+    ],
+    "basePrice": 825,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3309,
+      "battingAverage": 30.36,
+      "strikeRate": 134.02,
+      "highestScore": 140,
+      "centuries": 2,
+      "halfCenturies": 24,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-h-v-patel",
+    "name": "H V Patel",
+    "role": "All-rounder",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "DC",
+      "PBKS",
+      "SRH"
+    ],
+    "basePrice": 820,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 270,
+      "battingAverage": 8.44,
+      "strikeRate": 117.9,
+      "highestScore": 36,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 151,
+      "bowlingAverage": 23.7,
+      "oversBowled": 404.0,
+      "economyRate": 8.86,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-david-miller",
+    "name": "David Miller",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "RR",
+      "GT",
+      "LSG"
+    ],
+    "basePrice": 770,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3077,
+      "battingAverage": 33.81,
+      "strikeRate": 138.6,
+      "highestScore": 101,
+      "centuries": 1,
+      "halfCenturies": 13,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-ishan-kishan",
+    "name": "Ishan Kishan",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "GT",
+      "MI",
+      "SRH"
+    ],
+    "basePrice": 750,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2998,
+      "battingAverage": 29.11,
+      "strikeRate": 137.65,
+      "highestScore": 106,
+      "centuries": 1,
+      "halfCenturies": 17,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.2,
+      "economyRate": 24.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-wriddhiman-saha",
+    "name": "Wriddhiman Saha",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR",
+      "CSK",
+      "PBKS",
+      "SRH",
+      "GT"
+    ],
+    "basePrice": 735,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2934,
+      "battingAverage": 23.85,
+      "strikeRate": 127.57,
+      "highestScore": 115,
+      "centuries": 1,
+      "halfCenturies": 13,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-mayank-agarwal",
+    "name": "Mayank Agarwal",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "DC",
+      "PBKS",
+      "SRH"
+    ],
+    "basePrice": 690,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2756,
+      "battingAverage": 22.59,
+      "strikeRate": 133.53,
+      "highestScore": 106,
+      "centuries": 1,
+      "halfCenturies": 13,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-r-d-gaikwad",
+    "name": "R D Gaikwad",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK"
+    ],
+    "basePrice": 625,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2502,
+      "battingAverage": 39.71,
+      "strikeRate": 137.47,
+      "highestScore": 108,
+      "centuries": 2,
+      "halfCenturies": 20,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-nicholas-pooran",
+    "name": "Nicholas Pooran",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "SRH",
+      "LSG"
+    ],
+    "basePrice": 575,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2293,
+      "battingAverage": 33.23,
+      "strikeRate": 168.98,
+      "highestScore": 87,
+      "centuries": 0,
+      "halfCenturies": 14,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.0,
+      "economyRate": null,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-r-a-tripathi",
+    "name": "R A Tripathi",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RR",
+      "KKR",
+      "SRH",
+      "CSK"
+    ],
+    "basePrice": 575,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2291,
+      "battingAverage": 26.03,
+      "strikeRate": 137.85,
+      "highestScore": 93,
+      "centuries": 0,
+      "halfCenturies": 12,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 1.0,
+      "economyRate": 12.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-yashasvi-bhupendra-jaiswal",
+    "name": "Yashasvi Bhupendra Jaiswal",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RR"
+    ],
+    "basePrice": 540,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2166,
+      "battingAverage": 33.84,
+      "strikeRate": 152.86,
+      "highestScore": 124,
+      "centuries": 2,
+      "halfCenturies": 15,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 0.2,
+      "economyRate": 36.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-kane-williamson",
+    "name": "Kane Williamson",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "GT"
+    ],
+    "basePrice": 530,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2128,
+      "battingAverage": 35.47,
+      "strikeRate": 125.62,
+      "highestScore": 89,
+      "centuries": 0,
+      "halfCenturies": 18,
+      "wickets": 0,
+      "bowlingAverage": null,
+      "oversBowled": 3.0,
+      "economyRate": 10.33,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-v-chakravarthy",
+    "name": "V Chakravarthy",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "KKR"
+    ],
+    "basePrice": 505,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 26,
+      "battingAverage": 6.5,
+      "strikeRate": 55.32,
+      "highestScore": 10,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 100,
+      "bowlingAverage": 23.85,
+      "oversBowled": 314.7,
+      "economyRate": 7.58,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-arshdeep-singh",
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS"
+    ],
+    "basePrice": 495,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 31,
+      "battingAverage": 3.88,
+      "strikeRate": 67.39,
+      "highestScore": 10,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 97,
+      "bowlingAverage": 26.49,
+      "oversBowled": 285.7,
+      "economyRate": 9.0,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-shivam-dube",
+    "name": "Shivam Dube",
+    "role": "Batter",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "RR",
+      "CSK"
+    ],
+    "basePrice": 490,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 1859,
+      "battingAverage": 30.48,
+      "strikeRate": 143.66,
+      "highestScore": 95,
+      "centuries": 0,
+      "halfCenturies": 10,
+      "wickets": 5,
+      "bowlingAverage": 42.6,
+      "oversBowled": 20.7,
+      "economyRate": 10.31,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-d-l-chahar",
+    "name": "D L Chahar",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK",
+      "MI"
+    ],
+    "basePrice": 470,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 117,
+      "battingAverage": 13.0,
+      "strikeRate": 139.29,
+      "highestScore": 39,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 88,
+      "bowlingAverage": 29.51,
+      "oversBowled": 319.2,
+      "economyRate": 8.14,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-aavesh-khan",
+    "name": "Aavesh Khan",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "DC",
+      "LSG",
+      "RR"
+    ],
+    "basePrice": 450,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 62,
+      "battingAverage": 15.5,
+      "strikeRate": 167.57,
+      "highestScore": 19,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 87,
+      "bowlingAverage": 28.29,
+      "oversBowled": 269.8,
+      "economyRate": 9.12,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-s-k-k-ahmed",
+    "name": "S K K Ahmed",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "DC",
+      "CSK"
+    ],
+    "basePrice": 445,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 2,
+      "battingAverage": 0.4,
+      "strikeRate": 22.22,
+      "highestScore": 1,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 89,
+      "bowlingAverage": 26.16,
+      "oversBowled": 259.3,
+      "economyRate": 8.98,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-m-prasidh-krishna",
+    "name": "M Prasidh Krishna",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR",
+      "RR",
+      "GT"
+    ],
+    "basePrice": 370,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 9,
+      "battingAverage": 3.0,
+      "strikeRate": 37.5,
+      "highestScore": 4,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 74,
+      "bowlingAverage": 29.61,
+      "oversBowled": 249.8,
+      "economyRate": 8.77,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-ravi-bishnoi",
+    "name": "Ravi Bishnoi",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "LSG"
+    ],
+    "basePrice": 370,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 45,
+      "battingAverage": 4.5,
+      "strikeRate": 68.18,
+      "highestScore": 13,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 72,
+      "bowlingAverage": 31.07,
+      "oversBowled": 272.2,
+      "economyRate": 8.22,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-thangarasu-natarajan",
+    "name": "Thangarasu Natarajan",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "PBKS",
+      "SRH",
+      "DC"
+    ],
+    "basePrice": 340,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 3,
+      "battingAverage": null,
+      "strikeRate": 60.0,
+      "highestScore": 3,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 68,
+      "bowlingAverage": 29.74,
+      "oversBowled": 227.0,
+      "economyRate": 8.91,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-mustafizur-rahman",
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "SRH",
+      "MI",
+      "RR",
+      "DC",
+      "CSK"
+    ],
+    "basePrice": 330,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 13,
+      "battingAverage": 6.5,
+      "strikeRate": 54.17,
+      "highestScore": 8,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 65,
+      "bowlingAverage": 28.45,
+      "oversBowled": 227.3,
+      "economyRate": 8.13,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-anrich-nortje",
+    "name": "Anrich Nortje",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "KKR"
+    ],
+    "basePrice": 315,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 49,
+      "battingAverage": 8.17,
+      "strikeRate": 100.0,
+      "highestScore": 23,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 61,
+      "bowlingAverage": 27.16,
+      "oversBowled": 182.7,
+      "economyRate": 9.07,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-josh-hazlewood",
+    "name": "Josh Hazlewood",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK",
+      "RCB"
+    ],
+    "basePrice": 290,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 19,
+      "battingAverage": null,
+      "strikeRate": 65.52,
+      "highestScore": 7,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 57,
+      "bowlingAverage": 20.98,
+      "oversBowled": 144.5,
+      "economyRate": 8.28,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-lockie-ferguson",
+    "name": "Lockie Ferguson",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR",
+      "GT",
+      "RCB",
+      "PBKS"
+    ],
+    "basePrice": 275,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 72,
+      "battingAverage": 18.0,
+      "strikeRate": 153.19,
+      "highestScore": 24,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 51,
+      "bowlingAverage": 30.0,
+      "oversBowled": 170.5,
+      "economyRate": 8.97,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-tim-southee",
+    "name": "Tim Southee",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK",
+      "RR",
+      "MI",
+      "RCB",
+      "KKR"
+    ],
+    "basePrice": 265,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 120,
+      "battingAverage": 8.57,
+      "strikeRate": 112.15,
+      "highestScore": 36,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 47,
+      "bowlingAverage": 37.06,
+      "oversBowled": 201.0,
+      "economyRate": 8.67,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-tushar-u-deshpande",
+    "name": "Tushar U Deshpande",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "CSK",
+      "RR"
+    ],
+    "basePrice": 260,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 28,
+      "battingAverage": 9.33,
+      "strikeRate": 127.27,
+      "highestScore": 20,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 51,
+      "bowlingAverage": 31.04,
+      "oversBowled": 160.8,
+      "economyRate": 9.84,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-wanindu-hasaranga",
+    "name": "Wanindu Hasaranga",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "RCB",
+      "RR"
+    ],
+    "basePrice": 250,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 81,
+      "battingAverage": 5.06,
+      "strikeRate": 92.05,
+      "highestScore": 18,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 46,
+      "bowlingAverage": 24.33,
+      "oversBowled": 133.0,
+      "economyRate": 8.41,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-noor-ahmad",
+    "name": "Noor Ahmad",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "GT",
+      "CSK"
+    ],
+    "basePrice": 245,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 20,
+      "battingAverage": 2.5,
+      "strikeRate": 57.14,
+      "highestScore": 7,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 48,
+      "bowlingAverage": 22.23,
+      "oversBowled": 132.0,
+      "economyRate": 8.08,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-m-pathirana",
+    "name": "M Pathirana",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "CSK"
+    ],
+    "basePrice": 235,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 0,
+      "battingAverage": null,
+      "strikeRate": null,
+      "highestScore": null,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 47,
+      "bowlingAverage": 21.62,
+      "oversBowled": 117.0,
+      "economyRate": 8.68,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-harshit-rana",
+    "name": "Harshit Rana",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "KKR"
+    ],
+    "basePrice": 215,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 59,
+      "battingAverage": 8.43,
+      "strikeRate": 105.36,
+      "highestScore": 34,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 40,
+      "bowlingAverage": 25.73,
+      "oversBowled": 108.2,
+      "economyRate": 9.51,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-yash-dayal",
+    "name": "Yash Dayal",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "GT",
+      "RCB"
+    ],
+    "basePrice": 205,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 4,
+      "battingAverage": 1.33,
+      "strikeRate": 44.44,
+      "highestScore": 3,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 41,
+      "bowlingAverage": 33.9,
+      "oversBowled": 145.2,
+      "economyRate": 9.58,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-mayank-markande",
+    "name": "Mayank Markande",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "MI",
+      "RR",
+      "SRH"
+    ],
+    "basePrice": 195,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 48,
+      "battingAverage": 16.0,
+      "strikeRate": 114.29,
+      "highestScore": 18,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 37,
+      "bowlingAverage": 28.89,
+      "oversBowled": 120.0,
+      "economyRate": 8.91,
+      "catches": null
+    }
+  },
+  {
+    "id": "IPL-wayne-parnell",
+    "name": "Wayne Parnell",
+    "role": "Bowler",
+    "nationality": "Unknown (not in dataset)",
+    "iplTeams": [
+      "DC",
+      "RCB"
+    ],
+    "basePrice": 190,
+    "dataSource": "REAL_CAREER_STATS_THROUGH_2025; basePrice=GAME_ESTIMATE",
+    "photo": null,
+    "stats": {
+      "matches": null,
+      "runs": 65,
+      "battingAverage": 6.5,
+      "strikeRate": 81.25,
+      "highestScore": 16,
+      "centuries": 0,
+      "halfCenturies": 0,
+      "wickets": 35,
+      "bowlingAverage": 26.77,
+      "oversBowled": 120.5,
+      "economyRate": 7.78,
+      "catches": null
+    }
+  }
+]
